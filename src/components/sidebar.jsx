@@ -25,8 +25,8 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://twitter.com/ddbarochiya" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
-                <li><a href="https://github.com/dbarochiya" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
+                <li><a href="https://twitter.com/vanbettauer" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
+                <li><a href="https://github.com/vanbettauer" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
 
               </ul>
             </nav>
