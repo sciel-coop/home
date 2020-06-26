@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/www.sciel-coop.ca/static/css/main.76ff40f4.chunk.css",
-    "main.js": "/www.sciel-coop.ca/static/js/main.859d079b.chunk.js",
-    "main.js.map": "/www.sciel-coop.ca/static/js/main.859d079b.chunk.js.map",
-    "runtime-main.js": "/www.sciel-coop.ca/static/js/runtime-main.0c0a3e29.js",
-    "runtime-main.js.map": "/www.sciel-coop.ca/static/js/runtime-main.0c0a3e29.js.map",
-    "static/js/2.1c3ef0d4.chunk.js": "/www.sciel-coop.ca/static/js/2.1c3ef0d4.chunk.js",
-    "static/js/2.1c3ef0d4.chunk.js.map": "/www.sciel-coop.ca/static/js/2.1c3ef0d4.chunk.js.map",
-    "index.html": "/www.sciel-coop.ca/index.html",
-    "precache-manifest.959df7bfdbecb15a93bebc77d0fa41c5.js": "/www.sciel-coop.ca/precache-manifest.959df7bfdbecb15a93bebc77d0fa41c5.js",
-    "service-worker.js": "/www.sciel-coop.ca/service-worker.js",
-    "static/css/main.76ff40f4.chunk.css.map": "/www.sciel-coop.ca/static/css/main.76ff40f4.chunk.css.map",
-    "static/js/2.1c3ef0d4.chunk.js.LICENSE.txt": "/www.sciel-coop.ca/static/js/2.1c3ef0d4.chunk.js.LICENSE.txt"
+    "main.css": "/home/static/css/main.76ff40f4.chunk.css",
+    "main.js": "/home/static/js/main.7033c5c8.chunk.js",
+    "main.js.map": "/home/static/js/main.7033c5c8.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.297cb614.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.297cb614.js.map",
+    "static/js/2.1c3ef0d4.chunk.js": "/home/static/js/2.1c3ef0d4.chunk.js",
+    "static/js/2.1c3ef0d4.chunk.js.map": "/home/static/js/2.1c3ef0d4.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.63094d0b1013bd8ab2e23a64b4cef585.js": "/home/precache-manifest.63094d0b1013bd8ab2e23a64b4cef585.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.76ff40f4.chunk.css.map": "/home/static/css/main.76ff40f4.chunk.css.map",
+    "static/js/2.1c3ef0d4.chunk.js.LICENSE.txt": "/home/static/js/2.1c3ef0d4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c0a3e29.js",
+    "static/js/runtime-main.297cb614.js",
     "static/js/2.1c3ef0d4.chunk.js",
     "static/css/main.76ff40f4.chunk.css",
-    "static/js/main.859d079b.chunk.js"
+    "static/js/main.7033c5c8.chunk.js"
   ]
 }
